@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+<style>
+p {
+  margin: 10px;
+}
+</style>
 
-You can use the [editor on GitHub](https://github.com/meperryviola/meperryviola.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<p><img src="face.png" alt="madison" style="float:left;width:300px;height:400px;">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>About Me</h1>
 
-### Markdown
+<p>I'm a fourth-year undergraduate studying economics and mathematics at the University of Virginia in Charlottesville, VA. My interests include labor/public economics, econometrics, technical and scientific communication, and community organizing. In my spare time, I'm a violist and classical soprano.</p>
+<p>
+I completed my BA with a Distinguished Major in Economics and secondary major in Mathematics in June 2022. I'm a native resident of Norfolk, Virginia and began my education at Old Dominion University in the fall of 2018, where I researched climate risk communication and simulation games as spaces for collective policy determination. I then transferred to the University of Virginia in the fall of 2019, where I developed a passion for econometric analysis.
+I wrote my undergraduate thesis in Economics on the impacts of variable access to child care subsidies on the labor market behavior and welfare program participation of very low-income parents.I also worked with Leora Friedberg (UVA) and Tony Webb (The New School), assisting with research relating to retired individuals and various Social Security provisions. 
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meperryviola/meperryviola.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>In July, I will begin work as a Senior Research Assistant for the Federal Reserve Bank of Philadelphia.
+In my off-hours, I’m training for a half marathon, reading for pleasure, and playing the viola! </p>
