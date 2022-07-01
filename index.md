@@ -2,16 +2,6 @@
 layout: default
 ---
 
-<div class="home">
-
-</div>
-
-<style>
-p {
-  margin: 10px;
-}
-</style>
-
 <p><img src="face.png" alt="madison" style="float:left;width:300px;height:400px;">
 
 <h1>About Me</h1>
