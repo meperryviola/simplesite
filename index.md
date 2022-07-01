@@ -1,3 +1,11 @@
+---
+layout: default
+---
+
+<div class="home">
+
+</div>
+
 <style>
 p {
   margin: 10px;
