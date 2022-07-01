@@ -4,14 +4,6 @@ layout: default
 
 <div class="home">
 
-</div>
-
-<style>
-p {
-  margin: 10px;
-}
-</style>
-
 <p><img src="face.png" alt="madison" style="float:left;width:300px;height:400px;">
 
 <h1>About Me</h1>
@@ -24,3 +16,4 @@ I wrote my undergraduate thesis in Economics on the impacts of variable access t
 
 <p>In July, I will begin work as a Senior Research Assistant for the Federal Reserve Bank of Philadelphia.
 In my off-hours, I’m training for a half marathon, reading for pleasure, and playing the viola! </p>
+</div>
