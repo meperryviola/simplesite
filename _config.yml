@@ -1,6 +1,11 @@
-theme: jekyll-theme-minimal
+
 title: Madison Perry
 email: meperryviola@gmail.com or mep7da@virginia.edu
 description: This is my personal (semi-professional) website, compiling samples of my work and updates about my research and career.
 twitter_username: @MadisonEPerry
 github_username: meperryviola
+
+# Build settings
+markdown: kramdown
+
+theme: jekyll-theme-cayman
