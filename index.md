@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+
 ---
 
 <p><img src="face.png" alt="madison" style="float:left;width:300px;height:400px;">
